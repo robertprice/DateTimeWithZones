@@ -3,3 +3,4 @@
 deployment
 .classpath
 src.launch
+.DS_Store
