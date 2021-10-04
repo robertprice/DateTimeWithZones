@@ -1,9 +1,0 @@
-Buildfile: M:\DateTimeWithZones\src\deployment\build_core.xml
-
-clean:
-   [delete] Deleting directory M:\DateTimeWithZones\src\deployment\model
-
-BUILD SUCCESSFUL
-Total time: 0 seconds
-
-
