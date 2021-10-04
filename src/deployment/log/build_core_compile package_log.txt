@@ -1,0 +1,12 @@
+Buildfile: M:\DateTimeWithZones\src\deployment\build_core.xml
+
+compile:
+    [javac] Compiling 3 source files to M:\DateTimeWithZones\src\deployment\run\bin
+
+package:
+      [jar] Building jar: M:\DateTimeWithZones\src\deployment\model\bundles\project.jar
+
+BUILD SUCCESSFUL
+Total time: 1 second
+
+
